@@ -1,5 +1,7 @@
 # Maillist Worker Template
 
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/sichengchen/maillist-worker-template)
+
 A Cloudflare Worker template for running a small mailing list with an authenticated admin UI and optional R2 email archival.
 
 ## What It Includes
